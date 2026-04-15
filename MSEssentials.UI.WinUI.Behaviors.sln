@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleToolkit.UI.WinUI.Behaviors", "SimpleToolkit.UI.WinUI.Behaviors\SimpleToolkit.UI.WinUI.Behaviors.csproj", "{4BB20CD6-F447-4E4E-A3F0-4FC0EE9A78B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSEssentials.UI.WinUI.Behaviors", "MSEssentials.UI.WinUI.Behaviors\MSEssentials.UI.WinUI.Behaviors.csproj", "{4BB20CD6-F447-4E4E-A3F0-4FC0EE9A78B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

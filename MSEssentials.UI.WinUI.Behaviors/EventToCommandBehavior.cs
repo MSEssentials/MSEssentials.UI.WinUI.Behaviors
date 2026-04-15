@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 
-namespace SimpleToolkit.UI.WinUI.Behaviors
+namespace MSEssentials.UI.WinUI.Behaviors
 {
     public class EventToCommandBehavior : Behavior<FrameworkElement>
     {
